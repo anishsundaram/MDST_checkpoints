@@ -1,7 +1,9 @@
 /data
 .ipynb_checkpoints
 *.pdf
-
+*.txt
+/tutorial1
+/tutorial2
 
 
 # Python
